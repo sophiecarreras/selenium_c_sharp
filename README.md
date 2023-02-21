@@ -2,4 +2,4 @@
 Selenium WebDriver + C# + NUnit
 
 ### Requirements
-- [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac "Download IntelliJ IDEA Community").
+- [VisualStudio](https://visualstudio.microsoft.com/vs/mac/ "Download Visual Studio Community").
